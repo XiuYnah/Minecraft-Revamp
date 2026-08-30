@@ -5,10 +5,32 @@ Objective
 
 __
 
-
 IF - Game Features
 if [PVP based]
 if [Grind Based]
 if [Leveling Simulator]
 if [Open World Adventure]
 if [World Building]
+
+__
+
+Core Priority Framework for Game Objectives:
+1. Player Engagement & Retention (Highest Priority)
+-What keeps players coming back?
+-Early game hook vs. long-term goals
+-Balance between achievement and exploration
+
+2. Progression Systems
+-Short-term objectives (daily/session goals)
+-Medium-term objectives (weekly achievements)
+-Long-term objectives (endgame content)
+
+3. Social Interaction
+-Cooperative objectives
+-Competitive elements
+-Community-building goals
+
+4. Accessibility vs. Challenge
+-Onboarding for new players
+-Skill ceiling for veterans
+-Optional vs. mandatory objectives
