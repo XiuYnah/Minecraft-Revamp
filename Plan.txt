@@ -1,1 +1,21 @@
+KINGDOM SYSTEM
+> Each player will only choose ONE kingdom to join.
+> if the player refuses to join any kingdom, they will be known as "Wanderers"
 
+KINGDOM SPECIALTIES(Changable)
+Chronvara: Redstone & Automation - Clocks, farms, mechanisms, time-based contraptions, technical builds
+Noctyra: PvP / Combat - Duels, weapons, combat training, bounty hunts, battle events
+Verdentia: Farming & Livestock - Crops, food production, breeding, animal husbandry, sustainable living
+Astraelis: Exploration & Enchanting - Nether/End exploration, rare resources, enchantments, celestial-themed builds
+
+ROLES
+> will grind materials according to their roles picked. Once done, they can sell their materials to the appropriate price range. For labor type roles (builder, PvP, Redstone, etc), they will be paid for their work.
+
+roles/classes:
+- Farmer
+- PvP
+- Builder
+- Explorer
+- Miner
+- Redstone
+- Fisher
