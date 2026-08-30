@@ -13,7 +13,20 @@ if [Open World Adventure]
 if [World Building]
 
 __
+Current JavaScripts in the Base System:
 
+-Custom Dungeons Merchant Shop Menu — GUI shop for buying/selling custom armor and weapons using scoreboard currency.
+-Economy Pricing Dataset (Ores & Utilities) — Defines server-wide prices and calculates safe resale payouts.
+-End Dimension Restrictor — Prevents access to the End by teleporting players back to the Overworld.
+-BcaV2 Teleportation Library — Shared utilities for safe cross-dimension teleportation and landing protection.
+-AFK Mora Fishing Event — Rewards players with Mora for actively fishing in designated dock areas.
+-Hit-to-Open Loot Chest System — Provides renewable RPG loot chests with rarity tiers, animations, and cooldowns.
+-Main Entry Bootstrapper — Loads all server modules during startup and confirms successful initialization.
+-Instant Engine Live Check — Sends a startup message to confirm scripts are running correctly.
+-Fast Night-Cycle Time Scaler — Speeds up nighttime while maintaining the normal world clock.
+-Zone Entry Subtitle HUD Controller — Displays zone information and enables Adventure Mode protections in designated areas.
+-Boss Arena Lifecycles & AI Tethering Engine — Manages boss spawning and keeps bosses inside their arenas.
+-Compass Navigation Fast-Travel Menu — Provides a visual fast-travel menu for towns and boss locations with teleport effects.
 __
 
 Core Priority Framework for Game Objectives:
