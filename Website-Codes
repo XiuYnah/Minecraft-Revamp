@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FALCINA ARCHIVE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <a href="index.html">Home</a>
+
+    <details>
+        <summary>Lore</summary>
+        <a href="timeline1.html">Timeline 01</a>
+        <a href="timeline2.html">Timeline 02</a>
+        <a href="timeline3.html">Timeline 03</a>
+    </details>
+
+    <details>
+        <summary>Kingdoms</summary>
+        <a href="chronvara.html">Chronvara</a>
+        <a href="noctyra.html">Noctyra</a>
+        <a href="astraelis.html">Astraelis</a>
+        <a href="verdantia.html">Verdantia</a>
+    </details>
+
+    <a href="characters.html">Characters</a>
+    <a href="map.html">World Map</a>
+    <a href="archives.html">Archives</a>
+</aside>
+</body>
+</html>
