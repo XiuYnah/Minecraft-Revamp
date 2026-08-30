@@ -1,1 +1,14 @@
+Mission
+Vision
+Goal
+Objective
 
+__
+
+
+IF - Game Features
+if [PVP based]
+if [Grind Based]
+if [Leveling Simulator]
+if [Open World Adventure]
+if [World Building]
